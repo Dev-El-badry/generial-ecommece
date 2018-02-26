@@ -1,0 +1,30 @@
+nav .navbar-brand {
+    margin-left: 125px;
+    margin-right: 0;
+}
+
+nav .all-categories {
+    border-radius: 0px;
+    background-color: #34374c
+}
+
+nav .all-categories span {
+    line-height: 10px   
+}
+
+nav .search-nav {
+    margin: 0 !important;
+    border-radius: 0px;
+    width: 600px;
+}
+
+nav .submit-search {
+    border-radius: 5px 0px 0px 5px;
+    padding: 6px 29px;
+    background-color: #34374c;
+    color: #dcdddf
+}
+
+nav .submit-search i {
+    font-size: 21px
+}

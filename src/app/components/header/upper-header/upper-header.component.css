@@ -1,0 +1,33 @@
+.upper-header {
+    background-color: #34374c;
+    height: 50px;
+    color: #dcdddf;
+    font-size: 14px;
+    overflow: hidden;
+}
+
+.upper-header ul:first-child {
+    padding-right: 0px
+}
+
+.upper-header ul.list-inline>li, .upper-header ul.dropdown{
+    display: inline;
+    line-height: 50px;
+}
+
+.upper-header ul.list-inline>li:hover, .upper-header ul.dropdown:hover{
+    cursor: pointer;
+}
+
+.upper-header ul.list-inline>li {
+    margin-right: 25px;
+}
+
+.upper-header ul.list-inline>li:first-child {
+    margin-right: 0px
+}
+
+
+.upper-header li.dropdown-item {
+    background-color: #34374c;
+}
